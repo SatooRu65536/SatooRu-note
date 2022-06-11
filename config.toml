@@ -28,7 +28,7 @@ publishDir = "docs"
 [Author]
   name = "nagi"
   github = "nagi65536"
-  twitter = "nagi_65536"
+  twitter = "nagi_128"
 
 [[menu.main]]
   name = "Blog"
