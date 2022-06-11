@@ -1,6 +1,6 @@
-baseurl = "https://nagi65536.github.io"
+baseurl = "https://nagi65536.github.io/nagi-note/"
 DefaultContentLanguage = "jp"
-title = "meow.md"
+title = "Nagi note"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -8,6 +8,7 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 author = false
+publishDir = "docs"
 
 [Params]
   subtitle = "なぎ"
