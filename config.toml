@@ -1,5 +1,5 @@
 baseurl = "https://nagi65536.github.io/nagi-note/"
-DefaultContentLanguage = "jp"
+DefaultContentLanguage = "ja"
 title = "Nagi note"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
