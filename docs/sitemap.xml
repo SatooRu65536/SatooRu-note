@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://nagi65536.github.io/nagi-note/</loc>
+    <lastmod>2022-06-12T03:35:48+09:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://nagi65536.github.io/nagi-note/post/hoge/</loc>
+    <lastmod>2022-06-12T03:35:48+09:00</lastmod>
+  </url><url>
+    <loc>https://nagi65536.github.io/nagi-note/post/</loc>
+    <lastmod>2022-06-12T03:35:48+09:00</lastmod>
+  </url><url>
+    <loc>https://nagi65536.github.io/nagi-note/page/about/</loc>
+  </url><url>
+    <loc>https://nagi65536.github.io/nagi-note/categories/</loc>
+  </url><url>
+    <loc>https://nagi65536.github.io/nagi-note/page/</loc>
+  </url><url>
+    <loc>https://nagi65536.github.io/nagi-note/tags/</loc>
+  </url>
+</urlset>
