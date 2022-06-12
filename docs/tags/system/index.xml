@@ -5,7 +5,19 @@
     <link>https://nagi65536.github.io/nagi-note/tags/system/</link>
     <description>Recent content in system on Nagi note</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Jun 2022 20:51:24 +0900</lastBuildDate><atom:link href="https://nagi65536.github.io/nagi-note/tags/system/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 21:37:15 +0900</lastBuildDate><atom:link href="https://nagi65536.github.io/nagi-note/tags/system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>カラーコードボットを作った話</title>
+      <link>https://nagi65536.github.io/nagi-note/post/2022-6-12-colorcodebot/</link>
+      <pubDate>Sun, 12 Jun 2022 21:37:15 +0900</pubDate>
+      
+      <guid>https://nagi65536.github.io/nagi-note/post/2022-6-12-colorcodebot/</guid>
+      <description>&lt;h2 id=&#34;カラーコードボットを作った&#34;&gt;カラーコードボットを作った&lt;/h2&gt;
+&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
+&lt;p&gt;友）カラーコード好きなんだよね。よくネット民とカラーコード当てゲームしてる&lt;br&gt;
+私）BOTにしたら&amp;hellip;? &lt;em&gt;&lt;strong&gt;私がつくろう !!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>出席確認システムを作った話</title>
       <link>https://nagi65536.github.io/nagi-note/post/2022-6-12-attend-system/</link>
