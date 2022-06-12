@@ -1,11 +1,8 @@
 ---
 title: "マークダウンの書き方"
-subtitle: ""
 date: 2022-06-12T17:33:14+09:00
 author: "nagi"
-type: ""
-image: ""
-tags: [md]
+tags: [other]
 ---
 
 
