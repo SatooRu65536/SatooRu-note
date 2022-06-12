@@ -2,7 +2,7 @@
 title: "出席確認システムを作った話"
 date: 2022-06-12T20:51:24+09:00
 author: "nagi"
-tags: [system]
+tags: [system, 2022-6]
 ---
 
 ## 概要

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022-6 on Nagi note</title>
+    <link>https://nagi65536.github.io/nagi-note/tags/2022-6/</link>
+    <description>Recent content in 2022-6 on Nagi note</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Jun 2022 20:51:24 +0900</lastBuildDate><atom:link href="https://nagi65536.github.io/nagi-note/tags/2022-6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>出席確認システムを作った話</title>
+      <link>https://nagi65536.github.io/nagi-note/post/2022-6-12-attend-system/</link>
+      <pubDate>Sun, 12 Jun 2022 20:51:24 +0900</pubDate>
+      
+      <guid>https://nagi65536.github.io/nagi-note/post/2022-6-12-attend-system/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;情報デザイン部 → システムコンピュータ部 に転部&lt;/li&gt;
+&lt;li&gt;まずは出席を&amp;hellip; &lt;em&gt;&lt;strong&gt;まさかの紙 !?&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;→デジタル化しよう&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>マークダウンの書き方</title>
+      <link>https://nagi65536.github.io/nagi-note/post/2022-6-12-write_md/</link>
+      <pubDate>Sun, 12 Jun 2022 17:33:14 +0900</pubDate>
+      
+      <guid>https://nagi65536.github.io/nagi-note/post/2022-6-12-write_md/</guid>
+      <description>&lt;h3 id=&#34;マークダウンの書き方&#34;&gt;マークダウンの書き方&lt;/h3&gt;
+&lt;h4 id=&#34;初めに&#34;&gt;初めに&lt;/h4&gt;
+&lt;p&gt;このブログを書くためにマークダウンの記法を一覧にしました&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://nagi65536.github.io/nagi-note/post/2022-6-12-first/</link>
+      <pubDate>Sun, 12 Jun 2022 03:58:04 +0900</pubDate>
+      
+      <guid>https://nagi65536.github.io/nagi-note/post/2022-6-12-first/</guid>
+      <description>初投稿 やあ👋</description>
+    </item>
+    
+  </channel>
+</rss>
