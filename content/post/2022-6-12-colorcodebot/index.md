@@ -22,8 +22,10 @@ tags: [system, 2022-6]
 
 <br>
 
-### 使い方
-[ThatsColorCode 使い方](/notyet/)
+### BOT招待・使い方
+[BOT招待](https://discord.com/oauth2/authorize?client_id=980406123620356106&permissions=34880&scope=bot)
+
+[ThatsColorCode 使い方](/nagi-note/notyet/)
 
 <br>
 
