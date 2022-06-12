@@ -8,21 +8,24 @@
     <lastBuildDate>Sun, 12 Jun 2022 20:51:24 +0900</lastBuildDate><atom:link href="https://nagi65536.github.io/nagi-note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>出席確認システムを作った話</title>
-      <link>https://nagi65536.github.io/nagi-note/post/attend-system/</link>
+      <link>https://nagi65536.github.io/nagi-note/post/2022-6-12-attend-system/</link>
       <pubDate>Sun, 12 Jun 2022 20:51:24 +0900</pubDate>
       
-      <guid>https://nagi65536.github.io/nagi-note/post/attend-system/</guid>
-      <description>概要 情報デザイン部 → システムコンピュータ部 に転部 まずは出席&amp;hellip; まさかの紙 !? →デジタル化しよう 出席確認システム ver1.0 使用機器等 M5stack Core2 指紋センサユニット Raspberry Pi 4B 4GB Apache2 システム M5stackが指紋認識 ラズパイに HTTPPost で送信 csvファイルにログを保存 webサイトから管理 メリット ロマン 指紋のため何かを持ち歩く必要がない デメリット 指紋の認識精度が低い 登録がとても大変 出席確認システム ver1.0 詳細
-出席確認システム ver2.0 使用機器等 Raspberry Pi 4B 4GB Pasori Slackbot SlackBolt システム Pasori からNFCタグを認識 csvファイルにログを保存 Slackから管理 メリット 指紋のため何かを持ち歩く必要がない デメリット 管理を全てSlackで行うため追加登録・変更が大変 管理が大変 出席確認システム ver2.0 詳細
-出席確認システム ver3.0 使用機器等 Raspberry Pi 4B 4GB Pasori Google スプレッドシート GSpread システム Pasori からNFCタグを認識 Googleスプレッドシートに記録 Googleスプレッドシートから管理 メリット スプレッドシートの機能を使うため管理がしやすい 持続性がある デメリット 通信量に制限がある 出席確認システム ver3.</description>
+      <guid>https://nagi65536.github.io/nagi-note/post/2022-6-12-attend-system/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;情報デザイン部 → システムコンピュータ部 に転部&lt;/li&gt;
+&lt;li&gt;まずは出席を&amp;hellip; &lt;em&gt;&lt;strong&gt;まさかの紙 !?&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;→デジタル化しよう&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     
     <item>
       <title>マークダウンの書き方</title>
-      <link>https://nagi65536.github.io/nagi-note/post/write_md/</link>
+      <link>https://nagi65536.github.io/nagi-note/post/2022-6-12-write_md/</link>
       <pubDate>Sun, 12 Jun 2022 17:33:14 +0900</pubDate>
       
-      <guid>https://nagi65536.github.io/nagi-note/post/write_md/</guid>
+      <guid>https://nagi65536.github.io/nagi-note/post/2022-6-12-write_md/</guid>
       <description>&lt;h3 id=&#34;マークダウンの書き方&#34;&gt;マークダウンの書き方&lt;/h3&gt;
 &lt;h4 id=&#34;初めに&#34;&gt;初めに&lt;/h4&gt;
 &lt;p&gt;このブログを書くためにマークダウンの記法を一覧にしました&lt;/p&gt;</description>
@@ -30,10 +33,10 @@
     
     <item>
       <title>First</title>
-      <link>https://nagi65536.github.io/nagi-note/post/first/</link>
+      <link>https://nagi65536.github.io/nagi-note/post/2022-6-12-first/</link>
       <pubDate>Sun, 12 Jun 2022 03:58:04 +0900</pubDate>
       
-      <guid>https://nagi65536.github.io/nagi-note/post/first/</guid>
+      <guid>https://nagi65536.github.io/nagi-note/post/2022-6-12-first/</guid>
       <description>初投稿 やあ👋</description>
     </item>
     

@@ -1,2 +1,3 @@
-### Who is Nagi
-Hi!
+### What is this site?
+私の日常生活を記録する用のブログです。  
+有意義なものはないです。
