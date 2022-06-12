@@ -3,27 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nagi65536.github.io/nagi-note/</loc>
-    <lastmod>2022-06-12T03:58:04+09:00</lastmod>
+    <lastmod>2022-06-12T17:33:14+09:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://nagi65536.github.io/nagi-note/tags/other/</loc>
+    <lastmod>2022-06-12T17:33:14+09:00</lastmod>
+  </url><url>
+    <loc>https://nagi65536.github.io/nagi-note/post/</loc>
+    <lastmod>2022-06-12T17:33:14+09:00</lastmod>
+  </url><url>
+    <loc>https://nagi65536.github.io/nagi-note/tags/</loc>
+    <lastmod>2022-06-12T17:33:14+09:00</lastmod>
+  </url><url>
+    <loc>https://nagi65536.github.io/nagi-note/post/write_md/</loc>
+    <lastmod>2022-06-12T17:33:14+09:00</lastmod>
   </url><url>
     <loc>https://nagi65536.github.io/nagi-note/post/first/</loc>
     <lastmod>2022-06-12T03:58:04+09:00</lastmod>
-  </url><url>
-    <loc>https://nagi65536.github.io/nagi-note/post/</loc>
-    <lastmod>2022-06-12T03:58:04+09:00</lastmod>
-  </url><url>
-    <loc>https://nagi65536.github.io/nagi-note/post/2015-02-26-flake-it-till-you-make-it/</loc>
-    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nagi65536.github.io/nagi-note/post/2015-01-04-first-post/</loc>
-    <lastmod>2015-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nagi65536.github.io/nagi-note/page/about/</loc>
   </url><url>
     <loc>https://nagi65536.github.io/nagi-note/categories/</loc>
   </url><url>
     <loc>https://nagi65536.github.io/nagi-note/page/</loc>
-  </url><url>
-    <loc>https://nagi65536.github.io/nagi-note/tags/</loc>
   </url>
 </urlset>
