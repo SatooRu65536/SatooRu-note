@@ -28,6 +28,13 @@ comments: false
 
 <br>
 
+### 触れたソフト
+- After Effects
+- illustrator
+- **VScode**
+
+<br>
+
 ### ポートフォリオ等
 [nagi](nagi65536.ddns.net)
 
