@@ -17,6 +17,10 @@ tags: [system, 2022-6]
 画像を送ってそのカラーコードを当てるゲーム
 ![261ac4](/images/2022-6-12-colorcodebot/261ac4.png)
 
+{{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" link="/images/2022-6-12-colorcodebot/261ac4.jpg" >}}
+{{< /gallery >}}
+
 ### 構成
 - Node.js 17.10  
 - discord.js 12.5.3

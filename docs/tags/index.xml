@@ -33,5 +33,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>example</title>
+      <link>https://nagi65536.github.io/nagi-note/tags/example/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nagi65536.github.io/nagi-note/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photoswipe</title>
+      <link>https://nagi65536.github.io/nagi-note/tags/photoswipe/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nagi65536.github.io/nagi-note/tags/photoswipe/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

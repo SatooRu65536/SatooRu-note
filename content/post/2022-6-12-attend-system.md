@@ -41,7 +41,7 @@ tags: [system, 2022-6]
 
 <br>
 
-[出席確認システム ver1.0 詳細](/notyet/)
+[出席確認システム ver1.0 詳細](https://nagi65536.github.io/nagi-note/notyet/)
 
 <br>
 
