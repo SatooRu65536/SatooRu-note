@@ -9,7 +9,7 @@
 
   <title>カラーコードボットを作った話 - Nagi note</title>
   <meta name="description" content="概要
-友）カラーコード好きなんだよね。よくネット民とカラーコード当てゲームしてる
+友）カラーコード好きなんだよね。よくネッ友とカラーコード当てゲームしてる
 私）めんどくさくない？BOTにしたら&hellip;? 私がつくろう !!">
   <meta name="author" content="nagi"/><script type="application/ld+json">
 {
@@ -59,7 +59,7 @@
     "name" : "nagi"
   },
   "headline": "カラーコードボットを作った話",
-  "description" : "概要 友）カラーコード好きなんだよね。よくネット民とカラーコード当てゲームしてる\n私）めんどくさくない？BOTにしたら\u0026hellip;? 私がつくろう !!\n",
+  "description" : "概要 友）カラーコード好きなんだよね。よくネッ友とカラーコード当てゲームしてる\n私）めんどくさくない？BOTにしたら\u0026hellip;? 私がつくろう !!\n",
   "inLanguage" : "ja",
   "wordCount":  178 ,
   "datePublished" : "2022-06-12T21:37:15",
@@ -82,7 +82,7 @@
 
 <meta property="og:title" content="カラーコードボットを作った話" />
 <meta property="og:description" content="概要
-友）カラーコード好きなんだよね。よくネット民とカラーコード当てゲームしてる
+友）カラーコード好きなんだよね。よくネッ友とカラーコード当てゲームしてる
 私）めんどくさくない？BOTにしたら&hellip;? 私がつくろう !!">
 <meta property="og:image" content="https://nagi65536.github.io/nagi-note/img/pg-icon.png" />
 <meta property="og:url" content="https://nagi65536.github.io/nagi-note/post/2022-6-12-colorcodebot/" />
@@ -91,7 +91,7 @@
 
   <meta name="twitter:title" content="カラーコードボットを作った話" />
   <meta name="twitter:description" content="概要
-友）カラーコード好きなんだよね。よくネット民とカラーコード当てゲームしてる
+友）カラーコード好きなんだよね。よくネッ友とカラーコード当てゲームしてる
 私）めんどくさくない？BOTにしたら&hellip;? 私がつくろう !!">
   <meta name="twitter:image" content="https://nagi65536.github.io/nagi-note/img/pg-icon.png" />
   <meta name="twitter:card" content="summary" />
@@ -270,7 +270,7 @@
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
         <h3 id="概要">概要</h3>
-<p>友）カラーコード好きなんだよね。よくネット民とカラーコード当てゲームしてる<br>
+<p>友）カラーコード好きなんだよね。よくネッ友とカラーコード当てゲームしてる<br>
 私）めんどくさくない？BOTにしたら&hellip;? <em><strong>私がつくろう !!</strong></em></p>
 <br>
 <h3 id="カラーコード当てゲーム-とは">カラーコード当てゲーム とは</h3>
@@ -278,6 +278,10 @@
 <p><img src="./img/017a8b.png" alt="261ac4">
 <img src="./img/f83264.png" alt="261ac4">
 <img src="./img/ffd876.png" alt="261ac4"></p>
+<br>
+<h3 id="使い方">使い方</h3>
+<p><a href="/notyet/">ThatsColorCode 使い方</a></p>
+<br>
 <h3 id="構成">構成</h3>
 <ul>
 <li>Node.js 17.10</li>
@@ -307,6 +311,7 @@ perfect のハードモードです
 ヒントは表示されません</p>
 </li>
 </ol>
+<br>
 <h3 id="コマンド">コマンド</h3>
 <p>コマンド
 !tcc [gamemode]
@@ -319,6 +324,7 @@ perfect のハードモードです
 <p>#[colorcode]
 入力された色を表示します
 ゲーム中はカラーコードを指定することができます</p>
+<br>
 <h3 id="ファイル構成">ファイル構成</h3>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">├─ server.js  
 </span></span><span class="line"><span class="cl">└─ src  
@@ -353,13 +359,13 @@ perfect のハードモードです
 </span></span><span class="line"><span class="cl">    rgb16[i] = rgb10[i].toString(16);
 </span></span><span class="line"><span class="cl">}
 </span></span></code></pre></div><br>
-カラーコード化
+<p>カラーコード化</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">let colorcode = &#39;&#39;
 </span></span><span class="line"><span class="cl">for (let i = 0; i &lt; rgb16.length; i++) {
 </span></span><span class="line"><span class="cl">    colorcode += zeroPadding(rgb16[i], 2);
 </span></span><span class="line"><span class="cl">}
 </span></span></code></pre></div><br>
-画像を生成
+<p>画像を生成</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">const path = `images/${colorcode}.png`;
 </span></span><span class="line"><span class="cl">if (!fs.existsSync(path)) {
 </span></span><span class="line"><span class="cl">    sharp({
@@ -372,9 +378,6 @@ perfect のハードモードです
 </span></span><span class="line"><span class="cl">    }).toFile(`images/${colorcode}.png`);
 </span></span><span class="line"><span class="cl">}
 </span></span></code></pre></div><br>
-<h3 id="使い方">使い方</h3>
-<p><a href="/notyet/">ThatsColorCode 使い方</a></p>
-<br>
 <h3 id="github-リポジトリ">GitHub リポジトリ</h3>
 <p><a href="https://github.com/Nagi65536/ThatsColorCode">Nagi65536/ThatsColorCode</a></p>
 <br>
