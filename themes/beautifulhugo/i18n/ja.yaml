@@ -12,7 +12,7 @@
 - id: translationsSeparator
   translation: "・"
 - id: readMore
-  translation: "続きを読む"
+  translation: "Read More"
 - id: olderPosts
   translation: "古いページ"
 - id: newerPosts
@@ -71,4 +71,4 @@
 
 # Related posts
 - id: seeAlso
-  translation: "も参照してください"
+  translation: "See also"
