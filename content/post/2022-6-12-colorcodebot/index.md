@@ -8,14 +8,24 @@ tags: [system, 2022-6]
 
 
 ### 概要
-友）カラーコード好きなんだよね。よくネット民とカラーコード当てゲームしてる  
+友）カラーコード好きなんだよね。よくネッ友とカラーコード当てゲームしてる  
 私）めんどくさくない？BOTにしたら...? ***私がつくろう !!***
 <!--more-->
 <br>
 
 ### カラーコード当てゲーム とは
 画像を送ってそのカラーコードを当てるゲーム
-![261ac4](nagi65536.github.io/nagi-note/images/2022-6-12-colorcodebot/261ac4.png)
+
+![261ac4](./img/017a8b.png)
+![261ac4](./img/f83264.png)
+![261ac4](./img/ffd876.png)
+
+<br>
+
+### 使い方
+[ThatsColorCode 使い方](/notyet/)
+
+<br>
 
 ### 構成
 - Node.js 17.10  
@@ -38,6 +48,7 @@ tags: [system, 2022-6]
     perfect のハードモードです
     ヒントは表示されません
 
+<br>
 
 ### コマンド
 コマンド
@@ -55,6 +66,8 @@ tags: [system, 2022-6]
     入力された色を表示します
     ゲーム中はカラーコードを指定することができます
 
+<br>
+
 ### ファイル構成
 ```
 ├─ server.js  
@@ -70,6 +83,7 @@ tags: [system, 2022-6]
   ├─ training.js  
   └─ winner.js  
 ```
+
 <br>
 
 以下の部分でsrcディレクトリ全てのファイルを読み込んでいます
@@ -84,6 +98,7 @@ fs.readdir('./src/.', (err, files) => {
     });
 });
 ```
+
 <br>
 
 ### カラー画像生成
@@ -97,7 +112,9 @@ for (let i = 0; i < 3; i++) {
     rgb16[i] = rgb10[i].toString(16);
 }
 ```
+
 <br>
+
 カラーコード化
 
 ```node
@@ -106,7 +123,9 @@ for (let i = 0; i < rgb16.length; i++) {
     colorcode += zeroPadding(rgb16[i], 2);
 }
 ```
+
 <br>
+
 画像を生成
 
 ```node
@@ -122,12 +141,6 @@ if (!fs.existsSync(path)) {
     }).toFile(`images/${colorcode}.png`);
 }
 ```
-![dd7b5c](/images/2022-6-12-colorcodebot/dd7b5c.png)
-
-<br>
-
-### 使い方
-[ThatsColorCode 使い方](/notyet/)
 
 <br>
 

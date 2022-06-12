@@ -115,7 +115,7 @@ img::-moz-selection {
 }
 
 img {
-  display: block;
+  display: inline-block;
   margin: auto;
   max-width: 100%;
 }
