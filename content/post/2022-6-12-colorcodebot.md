@@ -9,17 +9,13 @@ tags: [system, 2022-6]
 
 ### 概要
 友）カラーコード好きなんだよね。よくネット民とカラーコード当てゲームしてる  
-私）BOTにしたら...? ***私がつくろう !!***
+私）めんどくさくない？BOTにしたら...? ***私がつくろう !!***
 <!--more-->
 <br>
 
 ### カラーコード当てゲーム とは
 画像を送ってそのカラーコードを当てるゲーム
-![261ac4](/images/2022-6-12-colorcodebot/261ac4.png)
-
-{{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" link="/images/2022-6-12-colorcodebot/261ac4.jpg" >}}
-{{< /gallery >}}
+![261ac4](nagi65536.github.io/nagi-note/images/2022-6-12-colorcodebot/261ac4.png)
 
 ### 構成
 - Node.js 17.10  
