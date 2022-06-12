@@ -7,7 +7,6 @@ tags: [system, 2022-6]
 ---
 
 
-## カラーコードボットを作った
 ### 概要
 友）カラーコード好きなんだよね。よくネット民とカラーコード当てゲームしてる  
 私）BOTにしたら...? ***私がつくろう !!***
@@ -22,6 +21,8 @@ tags: [system, 2022-6]
 - Node.js 17.10  
 - discord.js 12.5.3
 - glitch
+
+<br>
 
 ### ゲームモード
 0. training
@@ -126,7 +127,7 @@ if (!fs.existsSync(path)) {
 <br>
 
 ### 使い方
-[ThatsColorCode 使い方](TODO)
+[ThatsColorCode 使い方](/notyet/)
 
 <br>
 
