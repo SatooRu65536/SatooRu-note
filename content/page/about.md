@@ -4,13 +4,37 @@ subtitle: Hello, World!
 comments: false
 ---
 
-Hi, There👋
+### Hi, There👋
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- **名電高校 情報科学科 3年**
+- **情報システム部**
 
-What else do you need?
+<br>
 
-### my history
+### やってること
+- ~~モーショングラフィックス~~
+- サーバー構築
+- サイト制作
+- システム制作
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<br>
+
+### 触れた言語
+- HTML/CSS
+- **JavaScript**
+- PHP
+- **Python**
+- C, C#（Arduino）
+
+<br>
+
+### ポートフォリオ等
+[nagi](nagi65536.ddns.net)
+
+<br>
+
+### 今後
+- TypeScript やりたい
+- esp32やらで電子工作したい
+- **BLEビーコン使いたい**
+- ちゃんとしたドメイン買う
