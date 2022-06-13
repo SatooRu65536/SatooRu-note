@@ -1,4 +1,4 @@
-# Nagi note
+# SatooRu note
 個人のブログです
 
 以下の構成となってます
