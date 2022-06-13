@@ -1,4 +1,4 @@
-baseurl = "https://SatooRu.github.io/SatooRu-note/"
+baseurl = "https://SatooRu65536.github.io/SatooRu-note/"
 DefaultContentLanguage = "ja"
 title = "SatooRu note"
 theme = "beautifulhugo"
@@ -27,7 +27,7 @@ publishDir = "docs"
 
 [Author]
   name = "SatooRu"
-  github = "SatooRu"
+  github = "SatooRu65536"
   twitter = "SatooRu_65536"
 
 [[menu.main]]

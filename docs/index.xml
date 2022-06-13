@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SatooRu note</title>
-    <link>https://SatooRu.github.io/SatooRu-note/</link>
+    <link>https://SatooRu65536.github.io/SatooRu-note/</link>
     <description>Recent content on SatooRu note</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Jun 2022 23:23:06 +0900</lastBuildDate><atom:link href="https://SatooRu.github.io/SatooRu-note/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 23:23:06 +0900</lastBuildDate><atom:link href="https://SatooRu65536.github.io/SatooRu-note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugoを使った</title>
-      <link>https://SatooRu.github.io/SatooRu-note/post/2022-6-12-hugo/</link>
+      <link>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-hugo/</link>
       <pubDate>Sun, 12 Jun 2022 23:23:06 +0900</pubDate>
       
-      <guid>https://SatooRu.github.io/SatooRu-note/post/2022-6-12-hugo/</guid>
+      <guid>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-hugo/</guid>
       <description>&lt;h3 id=&#34;hugo-とは&#34;&gt;Hugo とは&lt;/h3&gt;
 &lt;p&gt;Go言語で実装された「Webサイト構築フレームワーク」
 マークダウンで書いた物を静的ファイルとして書き出してくれる。
@@ -20,10 +20,10 @@
     
     <item>
       <title>カラーコードボットを作った話</title>
-      <link>https://SatooRu.github.io/SatooRu-note/post/2022-6-12-colorcodebot/</link>
+      <link>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-colorcodebot/</link>
       <pubDate>Sun, 12 Jun 2022 21:37:15 +0900</pubDate>
       
-      <guid>https://SatooRu.github.io/SatooRu-note/post/2022-6-12-colorcodebot/</guid>
+      <guid>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-colorcodebot/</guid>
       <description>&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
 &lt;p&gt;友）カラーコード好きなんだよね。よくネッ友とカラーコード当てゲームしてる&lt;br&gt;
 私）めんどくさくない？BOTにしたら&amp;hellip;? &lt;em&gt;&lt;strong&gt;私がつくろう !!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
@@ -31,10 +31,10 @@
     
     <item>
       <title>出席確認システムを作った話</title>
-      <link>https://SatooRu.github.io/SatooRu-note/post/2022-6-12-attend-system/</link>
+      <link>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-attend-system/</link>
       <pubDate>Sun, 12 Jun 2022 20:51:24 +0900</pubDate>
       
-      <guid>https://SatooRu.github.io/SatooRu-note/post/2022-6-12-attend-system/</guid>
+      <guid>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-attend-system/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;情報デザイン部 → システムコンピュータ部 に転部&lt;/li&gt;
@@ -45,39 +45,39 @@
     
     <item>
       <title>マークダウンの書き方</title>
-      <link>https://SatooRu.github.io/SatooRu-note/post/2022-6-12-write_md/</link>
+      <link>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-write_md/</link>
       <pubDate>Sun, 12 Jun 2022 17:33:14 +0900</pubDate>
       
-      <guid>https://SatooRu.github.io/SatooRu-note/post/2022-6-12-write_md/</guid>
+      <guid>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-write_md/</guid>
       <description>&lt;h4 id=&#34;初めに&#34;&gt;初めに&lt;/h4&gt;
 &lt;p&gt;このブログを書くためにマークダウンの記法を一覧にしました&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>https://SatooRu.github.io/SatooRu-note/post/2022-6-12-first/</link>
+      <link>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-first/</link>
       <pubDate>Sun, 12 Jun 2022 03:58:04 +0900</pubDate>
       
-      <guid>https://SatooRu.github.io/SatooRu-note/post/2022-6-12-first/</guid>
+      <guid>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-first/</guid>
       <description>初投稿 やあ👋</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://SatooRu.github.io/SatooRu-note/page/about/</link>
+      <link>https://SatooRu65536.github.io/SatooRu-note/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://SatooRu.github.io/SatooRu-note/page/about/</guid>
+      <guid>https://SatooRu65536.github.io/SatooRu-note/page/about/</guid>
       <description>Hi, There👋 名電高校 情報科学科 3年 情報システム部 やってること モーショングラフィックス サーバー構築 サイト制作 システム制作 触れた言語 HTML/CSS JavaScript PHP Python C, C#（Arduino） 触れたソフト After Effects illustrator VScode ポートフォリオ等 SatooRu
 今後 TypeScript やりたい esp32やらで電子工作したい BLEビーコン使いたい ちゃんとしたドメイン買う </description>
     </item>
     
     <item>
       <title>Notyet</title>
-      <link>https://SatooRu.github.io/SatooRu-note/notyet/</link>
+      <link>https://SatooRu65536.github.io/SatooRu-note/notyet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://SatooRu.github.io/SatooRu-note/notyet/</guid>
+      <guid>https://SatooRu65536.github.io/SatooRu-note/notyet/</guid>
       <description>まだこの記事を書いていません。 </description>
     </item>
     
