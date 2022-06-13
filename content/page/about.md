@@ -36,7 +36,7 @@ comments: false
 <br>
 
 ### ポートフォリオ等
-[nagi](nagi65536.ddns.net)
+[SatooRu](SatooRu.nagoya)
 
 <br>
 

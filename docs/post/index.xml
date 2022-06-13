@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Nagi note</title>
-    <link>https://nagi65536.github.io/nagi-note/post/</link>
-    <description>Recent content in Posts on Nagi note</description>
+    <title>Posts on SatooRu note</title>
+    <link>https://SatooRu65536.github.io/SatooRu-note/post/</link>
+    <description>Recent content in Posts on SatooRu note</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Jun 2022 23:23:06 +0900</lastBuildDate><atom:link href="https://nagi65536.github.io/nagi-note/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 23:23:06 +0900</lastBuildDate><atom:link href="https://SatooRu65536.github.io/SatooRu-note/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugoを使った</title>
-      <link>https://nagi65536.github.io/nagi-note/post/2022-6-12-hugo/</link>
+      <link>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-hugo/</link>
       <pubDate>Sun, 12 Jun 2022 23:23:06 +0900</pubDate>
       
-      <guid>https://nagi65536.github.io/nagi-note/post/2022-6-12-hugo/</guid>
+      <guid>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-hugo/</guid>
       <description>&lt;h3 id=&#34;hugo-とは&#34;&gt;Hugo とは&lt;/h3&gt;
 &lt;p&gt;Go言語で実装された「Webサイト構築フレームワーク」
 マークダウンで書いた物を静的ファイルとして書き出してくれる。
@@ -20,10 +20,10 @@
     
     <item>
       <title>カラーコードボットを作った話</title>
-      <link>https://nagi65536.github.io/nagi-note/post/2022-6-12-colorcodebot/</link>
+      <link>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-colorcodebot/</link>
       <pubDate>Sun, 12 Jun 2022 21:37:15 +0900</pubDate>
       
-      <guid>https://nagi65536.github.io/nagi-note/post/2022-6-12-colorcodebot/</guid>
+      <guid>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-colorcodebot/</guid>
       <description>&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
 &lt;p&gt;友）カラーコード好きなんだよね。よくネッ友とカラーコード当てゲームしてる&lt;br&gt;
 私）めんどくさくない？BOTにしたら&amp;hellip;? &lt;em&gt;&lt;strong&gt;私がつくろう !!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
@@ -31,10 +31,10 @@
     
     <item>
       <title>出席確認システムを作った話</title>
-      <link>https://nagi65536.github.io/nagi-note/post/2022-6-12-attend-system/</link>
+      <link>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-attend-system/</link>
       <pubDate>Sun, 12 Jun 2022 20:51:24 +0900</pubDate>
       
-      <guid>https://nagi65536.github.io/nagi-note/post/2022-6-12-attend-system/</guid>
+      <guid>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-attend-system/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;情報デザイン部 → システムコンピュータ部 に転部&lt;/li&gt;
@@ -45,20 +45,20 @@
     
     <item>
       <title>マークダウンの書き方</title>
-      <link>https://nagi65536.github.io/nagi-note/post/2022-6-12-write_md/</link>
+      <link>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-write_md/</link>
       <pubDate>Sun, 12 Jun 2022 17:33:14 +0900</pubDate>
       
-      <guid>https://nagi65536.github.io/nagi-note/post/2022-6-12-write_md/</guid>
+      <guid>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-write_md/</guid>
       <description>&lt;h4 id=&#34;初めに&#34;&gt;初めに&lt;/h4&gt;
 &lt;p&gt;このブログを書くためにマークダウンの記法を一覧にしました&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>https://nagi65536.github.io/nagi-note/post/2022-6-12-first/</link>
+      <link>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-first/</link>
       <pubDate>Sun, 12 Jun 2022 03:58:04 +0900</pubDate>
       
-      <guid>https://nagi65536.github.io/nagi-note/post/2022-6-12-first/</guid>
+      <guid>https://SatooRu65536.github.io/SatooRu-note/post/2022-6-12-first/</guid>
       <description>初投稿 やあ👋</description>
     </item>
     

@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 date: {{ .Date }}
-author: ""
+author: "SatooRu"
 type: ""
 image: ""
 tags: []

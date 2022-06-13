@@ -1,7 +1,7 @@
 ---
 title: "Hugoを使った"
 date: 2022-06-12T23:23:06+09:00
-author: "nagi"
+author: "SatooRu"
 tags: [other, 2022-6]
 ---
 

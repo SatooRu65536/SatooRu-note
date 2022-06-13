@@ -2,7 +2,7 @@
 title: "マークダウンの書き方"
 date: 2022-06-12T17:33:14+09:00
 author: "nagi"
-tags: [other, 2022-6]
+tags: [memo, 2022-6]
 ---
 
 

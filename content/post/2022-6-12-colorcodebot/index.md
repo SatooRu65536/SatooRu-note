@@ -2,7 +2,7 @@
 title: "カラーコードボットを作った話"
 subtitle: ""
 date: 2022-06-12T21:37:15+09:00
-author: "nagi"
+author: "SatooRu"
 tags: [system, 2022-6]
 ---
 
@@ -25,7 +25,7 @@ tags: [system, 2022-6]
 ### BOT招待・使い方
 [BOT招待](https://discord.com/oauth2/authorize?client_id=980406123620356106&permissions=34880&scope=bot)
 
-[ThatsColorCode 使い方](/nagi-note/notyet/)
+[ThatsColorCode 使い方](/SatooRu-note/notyet/)
 
 <br>
 
@@ -147,6 +147,6 @@ if (!fs.existsSync(path)) {
 <br>
 
 ### GitHub リポジトリ
-[Nagi65536/ThatsColorCode](https://github.com/Nagi65536/ThatsColorCode)
+[SatooRu65536/ThatsColorCode](https://github.com/SatooRu65536/ThatsColorCode)
 
 <br>

@@ -1,6 +1,6 @@
-baseurl = "https://nagi65536.github.io/nagi-note/"
+baseurl = "https://SatooRu65536.github.io/SatooRu-note/"
 DefaultContentLanguage = "ja"
-title = "Nagi note"
+title = "SatooRu note"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -26,9 +26,9 @@ publishDir = "docs"
   showRelatedPosts = true
 
 [Author]
-  name = "nagi"
-  github = "nagi65536"
-  twitter = "nagi_128"
+  name = "SatooRu"
+  github = "SatooRu65536"
+  twitter = "SatooRu_65536"
 
 [[menu.main]]
   name = "Blog"
