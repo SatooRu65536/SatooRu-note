@@ -25,7 +25,7 @@ tags: [system, 2022-6]
 ### BOT招待・使い方
 [BOT招待](https://discord.com/oauth2/authorize?client_id=980406123620356106&permissions=34880&scope=bot)
 
-[ThatsColorCode 使い方](/SatooRu-note/notyet/)
+[ThatsColorCode 使い方](/docs/notyet/)
 
 <br>
 

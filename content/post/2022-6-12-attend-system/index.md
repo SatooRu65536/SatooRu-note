@@ -41,7 +41,7 @@ tags: [system, 2022-6]
 
 <br>
 
-[出席確認システム ver1.0 詳細](/SatooRu-note/notyet/)
+[出席確認システム ver1.0 詳細](/docs/notyet/)
 
 <br>
 
@@ -70,7 +70,7 @@ tags: [system, 2022-6]
 
 <br>
 
-[出席確認システム ver2.0 詳細](/SatooRu-note/notyet/)
+[出席確認システム ver2.0 詳細](/docs/notyet/)
 
 <br>
 
@@ -99,6 +99,6 @@ tags: [system, 2022-6]
 
 <br>
 
-[出席確認システム ver3.0 詳細](/SatooRu-note/notyet/)
+[出席確認システム ver3.0 詳細](/docs/notyet/)
 
 <br>
