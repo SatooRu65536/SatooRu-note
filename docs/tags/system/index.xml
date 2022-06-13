@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>system on SatooRu note</title>
-    <link>https://satooru.sakura.ne.jp/docs/tags/system/</link>
+    <link>https://satooru.nagoya/docs/tags/system/</link>
     <description>Recent content in system on SatooRu note</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Jun 2022 21:37:15 +0900</lastBuildDate><atom:link href="https://satooru.sakura.ne.jp/docs/tags/system/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 21:37:15 +0900</lastBuildDate><atom:link href="https://satooru.nagoya/docs/tags/system/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>カラーコードボットを作った話</title>
-      <link>https://satooru.sakura.ne.jp/docs/post/2022-6-12-colorcodebot/</link>
+      <link>https://satooru.nagoya/docs/post/2022-6-12-colorcodebot/</link>
       <pubDate>Sun, 12 Jun 2022 21:37:15 +0900</pubDate>
       
-      <guid>https://satooru.sakura.ne.jp/docs/post/2022-6-12-colorcodebot/</guid>
+      <guid>https://satooru.nagoya/docs/post/2022-6-12-colorcodebot/</guid>
       <description>&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
 &lt;p&gt;友）カラーコード好きなんだよね。よくネッ友とカラーコード当てゲームしてる&lt;br&gt;
 私）めんどくさくない？BOTにしたら&amp;hellip;? &lt;em&gt;&lt;strong&gt;私がつくろう !!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
@@ -19,10 +19,10 @@
     
     <item>
       <title>出席確認システムを作った話</title>
-      <link>https://satooru.sakura.ne.jp/docs/post/2022-6-12-attend-system/</link>
+      <link>https://satooru.nagoya/docs/post/2022-6-12-attend-system/</link>
       <pubDate>Sun, 12 Jun 2022 20:51:24 +0900</pubDate>
       
-      <guid>https://satooru.sakura.ne.jp/docs/post/2022-6-12-attend-system/</guid>
+      <guid>https://satooru.nagoya/docs/post/2022-6-12-attend-system/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;情報デザイン部 → システムコンピュータ部 に転部&lt;/li&gt;
