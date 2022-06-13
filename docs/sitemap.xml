@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://satooru.nagoya/docs/</loc>
+    <loc>https://satooru.me/docs/</loc>
     <lastmod>2022-06-12T23:23:06+09:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://satooru.nagoya/docs/tags/2022-6/</loc>
+    <loc>https://satooru.me/docs/tags/2022-6/</loc>
     <lastmod>2022-06-12T23:23:06+09:00</lastmod>
   </url><url>
-    <loc>https://satooru.nagoya/docs/post/2022-6-12-hugo/</loc>
+    <loc>https://satooru.me/docs/post/2022-6-12-hugo/</loc>
     <lastmod>2022-06-12T23:23:06+09:00</lastmod>
   </url><url>
-    <loc>https://satooru.nagoya/docs/tags/other/</loc>
+    <loc>https://satooru.me/docs/tags/other/</loc>
     <lastmod>2022-06-12T23:23:06+09:00</lastmod>
   </url><url>
-    <loc>https://satooru.nagoya/docs/post/</loc>
+    <loc>https://satooru.me/docs/post/</loc>
     <lastmod>2022-06-12T23:23:06+09:00</lastmod>
   </url><url>
-    <loc>https://satooru.nagoya/docs/tags/</loc>
+    <loc>https://satooru.me/docs/tags/</loc>
     <lastmod>2022-06-12T23:23:06+09:00</lastmod>
   </url><url>
-    <loc>https://satooru.nagoya/docs/tags/system/</loc>
+    <loc>https://satooru.me/docs/tags/system/</loc>
     <lastmod>2022-06-12T21:37:15+09:00</lastmod>
   </url><url>
-    <loc>https://satooru.nagoya/docs/post/2022-6-12-colorcodebot/</loc>
+    <loc>https://satooru.me/docs/post/2022-6-12-colorcodebot/</loc>
     <lastmod>2022-06-12T21:37:15+09:00</lastmod>
   </url><url>
-    <loc>https://satooru.nagoya/docs/post/2022-6-12-attend-system/</loc>
+    <loc>https://satooru.me/docs/post/2022-6-12-attend-system/</loc>
     <lastmod>2022-06-12T20:51:24+09:00</lastmod>
   </url><url>
-    <loc>https://satooru.nagoya/docs/tags/memo/</loc>
+    <loc>https://satooru.me/docs/tags/memo/</loc>
     <lastmod>2022-06-12T17:33:14+09:00</lastmod>
   </url><url>
-    <loc>https://satooru.nagoya/docs/post/2022-6-12-write_md/</loc>
+    <loc>https://satooru.me/docs/post/2022-6-12-write_md/</loc>
     <lastmod>2022-06-12T17:33:14+09:00</lastmod>
   </url><url>
-    <loc>https://satooru.nagoya/docs/post/2022-6-12-first/</loc>
+    <loc>https://satooru.me/docs/post/2022-6-12-first/</loc>
     <lastmod>2022-06-12T03:58:04+09:00</lastmod>
   </url><url>
-    <loc>https://satooru.nagoya/docs/page/about/</loc>
+    <loc>https://satooru.me/docs/page/about/</loc>
   </url><url>
-    <loc>https://satooru.nagoya/docs/categories/</loc>
+    <loc>https://satooru.me/docs/categories/</loc>
   </url><url>
-    <loc>https://satooru.nagoya/docs/notyet/</loc>
+    <loc>https://satooru.me/docs/notyet/</loc>
   </url><url>
-    <loc>https://satooru.nagoya/docs/page/</loc>
+    <loc>https://satooru.me/docs/page/</loc>
   </url>
 </urlset>

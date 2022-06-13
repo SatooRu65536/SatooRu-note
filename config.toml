@@ -1,4 +1,4 @@
-baseurl = "https://satooru.nagoya/docs/"
+baseurl = "https://satooru.me/docs/"
 DefaultContentLanguage = "ja"
 title = "SatooRu note"
 theme = "beautifulhugo"
