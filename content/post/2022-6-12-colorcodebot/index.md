@@ -147,6 +147,6 @@ if (!fs.existsSync(path)) {
 <br>
 
 ### GitHub リポジトリ
-[SatooRu65536/ThatsColorCode](https://github.com/SatooRu65536/ThatsColorCode)
+[SatooRu/ThatsColorCode](https://github.com/SatooRu/ThatsColorCode)
 
 <br>
