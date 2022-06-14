@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on SatooRu note</title>
-    <link>https://satooru.me/docs/page/</link>
+    <link>https://satooru.nagoya/page/</link>
     <description>Recent content in Pages on SatooRu note</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://satooru.me/docs/page/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://satooru.nagoya/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://satooru.me/docs/page/about/</link>
+      <link>https://satooru.nagoya/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://satooru.me/docs/page/about/</guid>
+      <guid>https://satooru.nagoya/page/about/</guid>
       <description>Hi, There👋 名電高校 情報科学科 3年 情報デザイン部 情報システム部 メカニカルアーツ部 やってること モーショングラフィックス サーバー構築 サイト制作 システム制作 触れた言語 HTML/CSS JavaScript PHP Python C, C#（Arduino） 触れたソフト After Effects illustrator VScode ポートフォリオ等 SatooRu
 今後 TypeScript やりたい esp32やらで電子工作したい BLEビーコン使いたい ちゃんとしたドメイン買う </description>
     </item>
