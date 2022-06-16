@@ -5,7 +5,17 @@
     <link>https://satooru.nagoya/tags/memo/</link>
     <description>Recent content in memo on SatooRu note</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Jun 2022 17:33:14 +0900</lastBuildDate><atom:link href="https://satooru.nagoya/tags/memo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 21:42:18 +0900</lastBuildDate><atom:link href="https://satooru.nagoya/tags/memo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>プログラミングを始めるにあたって</title>
+      <link>https://satooru.nagoya/post/2022-6-16-introduction/</link>
+      <pubDate>Thu, 16 Jun 2022 21:42:18 +0900</pubDate>
+      
+      <guid>https://satooru.nagoya/post/2022-6-16-introduction/</guid>
+      <description>&lt;h4 id=&#34;概要&#34;&gt;概要&lt;/h4&gt;
+&lt;p&gt;私がプログラミングをする中で「早く知りたかったぁ」な情報をまとめました。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>マークダウンの書き方</title>
       <link>https://satooru.nagoya/post/2022-6-12-write_md/</link>

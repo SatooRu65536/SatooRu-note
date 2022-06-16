@@ -5,14 +5,24 @@
     <link>https://satooru.nagoya/post/</link>
     <description>Recent content in Posts on SatooRu note</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Jun 2022 23:23:06 +0900</lastBuildDate><atom:link href="https://satooru.nagoya/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 21:42:18 +0900</lastBuildDate><atom:link href="https://satooru.nagoya/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>プログラミングを始めるにあたって</title>
+      <link>https://satooru.nagoya/post/2022-6-16-introduction/</link>
+      <pubDate>Thu, 16 Jun 2022 21:42:18 +0900</pubDate>
+      
+      <guid>https://satooru.nagoya/post/2022-6-16-introduction/</guid>
+      <description>&lt;h4 id=&#34;概要&#34;&gt;概要&lt;/h4&gt;
+&lt;p&gt;私がプログラミングをする中で「早く知りたかったぁ」な情報をまとめました。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Hugoを使った</title>
       <link>https://satooru.nagoya/post/2022-6-12-hugo/</link>
       <pubDate>Sun, 12 Jun 2022 23:23:06 +0900</pubDate>
       
       <guid>https://satooru.nagoya/post/2022-6-12-hugo/</guid>
-      <description>&lt;h3 id=&#34;hugo-とは&#34;&gt;Hugo とは&lt;/h3&gt;
+      <description>&lt;h4 id=&#34;hugo-とは&#34;&gt;Hugo とは&lt;/h4&gt;
 &lt;p&gt;Go言語で実装された「Webサイト構築フレームワーク」
 マークダウンで書いた物を静的ファイルとして書き出してくれる。
 &lt;strong&gt;しかも爆速で。&lt;/strong&gt;&lt;/p&gt;</description>
@@ -24,7 +34,7 @@
       <pubDate>Sun, 12 Jun 2022 21:37:15 +0900</pubDate>
       
       <guid>https://satooru.nagoya/post/2022-6-12-colorcodebot/</guid>
-      <description>&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
+      <description>&lt;h4 id=&#34;概要&#34;&gt;概要&lt;/h4&gt;
 &lt;p&gt;友）カラーコード好きなんだよね。よくネッ友とカラーコード当てゲームしてる&lt;br&gt;
 私）めんどくさくない？BOTにしたら&amp;hellip;? &lt;em&gt;&lt;strong&gt;私がつくろう !!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
@@ -35,7 +45,7 @@
       <pubDate>Sun, 12 Jun 2022 20:51:24 +0900</pubDate>
       
       <guid>https://satooru.nagoya/post/2022-6-12-attend-system/</guid>
-      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+      <description>&lt;h4 id=&#34;概要&#34;&gt;概要&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;情報デザイン部 → システムコンピュータ部 に転部&lt;/li&gt;
 &lt;li&gt;まずは出席を&amp;hellip; &lt;em&gt;&lt;strong&gt;まさかの紙 !?&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;

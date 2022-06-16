@@ -7,7 +7,7 @@ tags: [system, 2022-6]
 ---
 
 
-### 概要
+#### 概要
 友）カラーコード好きなんだよね。よくネッ友とカラーコード当てゲームしてる  
 私）めんどくさくない？BOTにしたら...? ***私がつくろう !!***
 <!--more-->
@@ -26,6 +26,24 @@ tags: [system, 2022-6]
 [BOT招待](https://discord.com/oauth2/authorize?client_id=980406123620356106&permissions=34880&scope=bot)
 
 [ThatsColorCode 使い方](/notyet/)
+
+<br>
+
+### ポイント
+#### データの保存
+ルームごとのゲームモード等を保存するのに sqlite を使用しています  
+<br>
+
+#### 画像生成できない！
+canvas を使いたかったが原因不明のエラーにより使えなかった  
+→ sharp でpng画像を生成するようにした  
+（256×256×256枚の画像生成せずに済んでよかった...）  
+<br>
+
+#### 画像データが圧迫する
+サーバのglitchには容量制限があるため画像データが邪魔  
+→ データベースに生成記録を保存しておき、一定時間で削除されるようになっている  
+（ゲーム記録も一定時間で削除されます）
 
 <br>
 
@@ -72,18 +90,18 @@ tags: [system, 2022-6]
 
 ### ファイル構成
 ```
-├─ server.js  
-└─ src  
-  ├─ finish.js  
-  ├─ generatecc.js  
-  ├─ getcc.js  
-  ├─ help.js  
-  ├─ oneshot.js  
-  ├─ perfect.js  
-  ├─ random.js  
-  ├─ remove.js  
-  ├─ training.js  
-  └─ winner.js  
+├─ server.js
+└─ src
+  ├─ finish.js
+  ├─ generatecc.js
+  ├─ getcc.js
+  ├─ help.js
+  ├─ oneshot.js
+  ├─ perfect.js
+  ├─ random.js
+  ├─ remove.js
+  ├─ training.js
+  └─ winner.js
 ```
 
 <br>
@@ -120,6 +138,8 @@ for (let i = 0; i < 3; i++) {
 カラーコード化
 
 ```node
+[generatecc.js]
+
 let colorcode = ''
 for (let i = 0; i < rgb16.length; i++) {
     colorcode += zeroPadding(rgb16[i], 2);
@@ -131,6 +151,8 @@ for (let i = 0; i < rgb16.length; i++) {
 画像を生成
 
 ```node
+[generatecc.js]
+
 const path = `images/${colorcode}.png`;
 if (!fs.existsSync(path)) {
     sharp({
@@ -147,6 +169,6 @@ if (!fs.existsSync(path)) {
 <br>
 
 ### GitHub リポジトリ
-[SatooRu/ThatsColorCode](https://github.com/SatooRu65536/ThatsColorCode)
+[SatooRu65536/ThatsColorCode](https://github.com/SatooRu65536/ThatsColorCode)
 
 <br>
