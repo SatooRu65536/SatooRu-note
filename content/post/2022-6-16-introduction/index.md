@@ -87,10 +87,10 @@ tags: [other, memo]
 ### - VScode拡張機能編
 **言語ごとのフォーマッターは入れるべき**  
 `Git History` 
-  git使う時はまじで入れるべき。
+  git使う時はまじで入れるべき。  
 `Live Server` 
   HTML書いてるときにプレビュー見れる  
-`SQlite` 
+`SQlite`  
   SQlite3というデータベースを触るときはまじで便利  
 
 <br>
