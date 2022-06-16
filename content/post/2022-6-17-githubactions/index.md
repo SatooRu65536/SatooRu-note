@@ -5,8 +5,8 @@ author: "SatooRu"
 tags: [other]
 ---
 
-
 #### GitHub Avtions のテスト
+<!--more-->
 さくらサーバへの自動デプロイできた!!  
 わーいわーい  
 `hugo` 実行もしてくれるようにしたい！  
