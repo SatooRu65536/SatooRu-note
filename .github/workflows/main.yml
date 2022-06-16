@@ -11,13 +11,13 @@ jobs:
       - name: 🚚 Get latest code
         uses: actions/checkout@v2.3.2
       
-      - name: Setup Hugo
+      - name: 🍯 Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.91.2'
           # extended: true
 
-      - name: 🍯 Build Hugo
+      - name: 🔥 Build Hugo
         run: hugo --minify
 
       - name: 📂 Sync files
