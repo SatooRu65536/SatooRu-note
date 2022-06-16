@@ -1,12 +1,16 @@
 # SatooRu note
-個人のブログです
+個人のブログです  
 [satooru.nagoya](https://satooru.nagoya)
 
 以下の構成となってます
 
 - Edit
     - Markdown
+    - HTML, CSS
 - Generate
     - hugo
 - Host
-    - Github pages
+    - さくらレンタルサーバー
+    - GitHub Pages
+- Deploy
+    - GitHub Actions
